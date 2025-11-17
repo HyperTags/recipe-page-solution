@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [frontend mentor](https://your-solution-url.com)
+- Solution URL: [frontend mentor](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-hMttlYPnGp)
 - Live Site URL: [GitHub pages](https://hypertags.github.io/recipe-page-solution/)
 
 ## My process
